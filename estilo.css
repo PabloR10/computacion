@@ -1,0 +1,38 @@
+
+Header {
+     text-shadow: white 20px 20px 30px;
+	 text-align: center;
+	 Color: white
+}
+h1{
+     Color:white;
+	 font-size:60px;
+	 font-family:Arial;
+	 text-transform: uppercase;
+	 text-align: center;
+}
+h2{ 
+     Color:Blue;
+	 font-size:30px;
+	 font-family:Arial;
+	 text-align: justificado;
+}
+h3{
+     Color:blue;
+	 font-size:20px;
+}
+p {
+     color:black;
+	 font-size:15px;
+	 text-align: justificado;
+}
+h4{
+	color:orange;
+	font-size:15px;
+	text-align: justificado;
+footer{
+     background: black;
+	 color:white;
+	 font-size: 45px;
+	  border:10px solid white;
+}
